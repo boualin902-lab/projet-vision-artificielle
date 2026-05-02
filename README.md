@@ -5,7 +5,7 @@ Pipeline complet de vision artificielle appliqué à la classification
 de radiographies thoraciques (Normal vs Pneumonie).
 
 **Dataset :** Kaggle Chest X-Ray Images (Pneumonia)  
-**Module :** Vision Artificielle — GBM2  
+**Module :** Vision Artificielle  
 
 ## Pipeline
 Image → Prétraitement → Segmentation → Features → Classification → Évaluation
